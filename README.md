@@ -27,4 +27,4 @@ Este projeto visa implementar um sistema de chat distribuído utilizando a arqui
     Mensagem do servidor: Bom dia, cliente!
 
 
-## Link do vídeo nno youtube: https://www.youtube.com/watch?v=PLkhCVq8sps
+## Link do vídeo no youtube: https://www.youtube.com/watch?v=PLkhCVq8sps
