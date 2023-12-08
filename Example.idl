@@ -1,0 +1,8 @@
+module Example {
+  interface Greetings {
+    string sayHello();
+    void sendMessage(in string message);
+    void setClient(in Greetings_i client);
+  };
+};
+
