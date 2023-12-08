@@ -25,3 +25,6 @@ Este projeto visa implementar um sistema de chat distribuído utilizando a arqui
     IOR:010000001a00000049444c3a4578616d706c6....
 
     Mensagem do servidor: Bom dia, cliente!
+
+
+## Link do vídeo nno youtube: https://www.youtube.com/watch?v=PLkhCVq8sps
